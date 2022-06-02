@@ -24,7 +24,7 @@ R= 104780
 
 
 # 3.- Clientes que en su número telefónico esté el patrón “55”
-# La respuesta es que no hay porque las instancias varian entre 0 y 1
+### La respuesta es que no hay porque las instancias varian entre 0 y 1
 
 ### Se prodece a buscar ese patron con los ID = 30269 clientes
 
