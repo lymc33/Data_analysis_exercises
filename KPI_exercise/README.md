@@ -1,31 +1,28 @@
 # SQL_exercises
 
-Data Analysis exercises
+KPI exercises
 
 
-1.- Run "CSV_2_SQL.ipynb", then a db.db file will be created.
+1.- XXX
 
-2.- Run "CSV_2_SQL.ipynb", then the 4 questions on the notebook will be answered"
-
+2.- XXX
 
 ------------------------------------------------------------------------------------------
 
 
 Answers for the Questions.
 
-# 1.- Cuales son los tres clientes solteros, con coche y con 30-59 días de atraso que tienen los mayores ingresos ??? 
-R = 5117032, 5118442, 5088222
+# 1.- Definas y calcules KPIs de número de créditos “buenos” y “malos”, no olvides justificar tus KPI’s en cuanto importancia de uso
+
+R = xxx
 
 
-# 2.- Cuántos clientes tienen entre 701 y 1822 días en su actual empleo ??? 
-R= 104780
+# 2.- Calcula el KPI por mes para los meses que sea posible calcularlos
+R= xxx
 
 
-# 3.- Clientes que en su número telefónico esté el patrón “55”
-### La respuesta es que no hay porque las instancias varian entre 0 y 1
+# 3.- Expliques las características de los clientes “buenos” y “malos”
+R= xxx
 
-### Se prodece a buscar ese patron con los ID = 30269 clientes
-
-
-# 4.- Clientes que pertenezcan a la tabla “application_record.csv” pero no a “credit_record.csv” 
-R= 402100
+# 4.- Des recomendaciones sobre a qué clientes buscar atraer más 
+R= xxx
