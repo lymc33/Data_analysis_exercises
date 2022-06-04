@@ -5,7 +5,10 @@ KPI exercises
 
 1.- Run "data_cleaning.ipynb", then files 'df3.csv' and 'df4.csv' file will be created.
 
-2.- Conect to Tableu prep 'df3.csv' and 'df4.csv'
+
+2.- XXX
+
+    <  1.- XXX  >
 
 ------------------------------------------------------------------------------------------
 
