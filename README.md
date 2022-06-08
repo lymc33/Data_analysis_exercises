@@ -1,11 +1,9 @@
 # Data_analysis_exercises
 
-1.- KPI_exe directory 
- (under construction)
+Includes: 
 
+- DB dir : for storing original DB, modifyied and the graphs and tables created
 
-2.- SQL_exercise directory 
+- KPI_exercise dir :  With the KPI exercise (question 1 - 4 )
 
-< It has "CSV_2_SQL.ipynb"  that moves a SQL data base (db) from a CSV list >
-
-< It has "SQL_exe.ipynb"  that uses the SQL data base for solving four given querrys >
+- SQL_exercise dir : With the SQL exercise (question 5 - 8 )
