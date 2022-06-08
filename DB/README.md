@@ -1,11 +1,7 @@
-# Data_analysis_exercises
+# DATA BASE
 
-1.- KPI_exe directory 
- (under construction)
+1.- Datos dir : Original csv
 
+2.- Graficas dir : Contains graphs
 
-2.- SQL_exercise directory 
-
-< It has "CSV_2_SQL.ipynb"  that moves a SQL data base (db) from a CSV list >
-
-< It has "SQL_exe.ipynb"  that uses the SQL data base for solving four given querrys >
+3.- Tablas dir : Contains tables, includinf dAll used as merged df, but because size is not uploaded
