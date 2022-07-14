@@ -10,17 +10,17 @@
 
    Incluye los directorios:
    
-   1.- Corr = Contiene 5 gráficas de correlación
+        1.- Corr = Contiene 5 gráficas de correlación
 
-   2.- Corr_2 = Contiene 5 gráficas de correlación luego de un primer ajuste en tipos de clientes
+        2.- Corr_2 = Contiene 5 gráficas de correlación luego de un primer ajuste en tipos de clientes
    
-   3.- Dummy = Contiene 5 gráficas de correlación con ajuste para incluir todas las columnas
+        3.- Dummy = Contiene 5 gráficas de correlación con ajuste para incluir todas las columnas
 
-   4.- Dummy_2 = Contiene 5 gráficas de correlación luego de un primer ajuste en tipos de clientes, con ajuste para incluir todas las columnas
+        4.- Dummy_2 = Contiene 5 gráficas de correlación luego de un primer ajuste en tipos de clientes, con ajuste para incluir todas las columnas
 
-   5.- KPI = Contiene 3 gráficas para Dashboard, correspondiente a KPI
+        5.- KPI = Contiene 3 gráficas para Dashboard, correspondiente a KPI
 
-   6.- Pie = Contiene 2 gráficas Pie, correspondientes a la clasificacion en tipos de clientes antes y después del primer ajuste
+        6.- Pie = Contiene 2 gráficas Pie, correspondientes a la clasificacion en tipos de clientes antes y después del primer ajuste
 
 ### Tablas
 
