@@ -3,15 +3,14 @@
 Data Analysis exercises
 
 
-1.- Run "CSV_2_SQL.ipynb", then a db.db file will be created.
+1.- Ejecuta "CSV_2_SQL.ipynb", se creará una base de datos en SQL de numbre db.db
 
-2.- Run "CSV_2_SQL.ipynb", then the 4 questions on the notebook will be answered"
-
+2.- Ejecuta "CSV_2_SQL.ipynb", donde se realizan los "queries" que responden a las 4 preguntas presentadas a continuación
 
 ------------------------------------------------------------------------------------------
 
 
-Answers for the Questions.
+Preguntas y respuestas
 
 # 1.- Cuales son los tres clientes solteros, con coche y con 30-59 días de atraso que tienen los mayores ingresos ??? 
 R = 5117032, 5118442, 5088222
