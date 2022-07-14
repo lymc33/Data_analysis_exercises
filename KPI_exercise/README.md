@@ -8,7 +8,7 @@
 
 ### Dashboards
 
-   Incluye el archivo KPIs.py , que deberá ejecutarse desde la consola para obtener una dirección IP donde se verá el dashboard
+    Incluye el archivo KPIs.py , que deberá ejecutarse desde la consola para obtener una dirección IP donde se verá el dashboard
 
 ### Notebooks
 
