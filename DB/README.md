@@ -24,7 +24,7 @@
 
 ### Tablas
 
-    Contiene directorios y archivos
+Contiene directorios y archivos
 
     Directorios:
 
