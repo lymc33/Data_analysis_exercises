@@ -1,6 +1,6 @@
 ### Data_analysis_exercises
 
-## DATA BASE
+## DB = DATA BASE
 
 ### Datos
 
