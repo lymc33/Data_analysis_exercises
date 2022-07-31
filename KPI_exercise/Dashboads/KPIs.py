@@ -6,7 +6,7 @@ import flask
 import glob
 import os
 
-image_directory = '/Users/yairmartinez/Documents/GitHub/data_analysis_exercises/DB/Graficas/'
+image_directory = '/Users/yairmartinez/Documents/GitHub/data_analysis_exercises/DB/Graficas/KPI/'
 list_of_images = [os.path.basename(x) for x in glob.glob('{}*.png'.format(image_directory))]
 static_image_route = '/static/'
 
